@@ -12,9 +12,11 @@
     <description>
        pa Norsk tegnsprak - NTS
     </description>
-<preference name="AndroidLaunchMode" value="singleTop"/> 
-<preference name="android-minSdkVersion" value="8" />
-<preference name="android-targetSdkVersion" value="26" />
+<platform name="android">        
+    <preference name="AndroidLaunchMode" value="singleTop"/> 
+    <preference name="android-minSdkVersion" value="8" />
+    <preference name="android-targetSdkVersion" value="26" />
+</platform>
         
     
       <!-- iPhone 6 / 6+ -->
