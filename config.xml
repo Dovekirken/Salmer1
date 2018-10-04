@@ -12,6 +12,13 @@
     <description>
        pa Norsk tegnsprak - NTS
     </description>
+<<<<<<< HEAD
+=======
+<platform name="android">        
+    <preference name="android-minSdkVersion" value="8" />
+    <preference name="android-targetSdkVersion" value="26" />
+</platform>
+>>>>>>> b01db28090fde126303e2d9d5e6194b6083d9c08
         
     
       <!-- iPhone 6 / 6+ -->
