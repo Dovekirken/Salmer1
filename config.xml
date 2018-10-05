@@ -2,8 +2,8 @@
     <widget xmlns   = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
         id          = "no.tegnkultur.www"
-        versionCode = "11" 
-        version     = "1.10.1" >
+        versionCode = "12" 
+        version     = "1.10.2" >
 
     <!-- versionCode is optional and Android only -->
 
@@ -12,13 +12,16 @@
     <description>
        pa Norsk tegnsprak - NTS
     </description>
-<<<<<<< HEAD
-=======
-<platform name="android">        
-    <preference name="android-minSdkVersion" value="8" />
-    <preference name="android-targetSdkVersion" value="26" />
-</platform>
->>>>>>> b01db28090fde126303e2d9d5e6194b6083d9c08
+
+<preference name="android-minSdkVersion" value="8" />
+<preference name="android-targetSdkVersion" value="26" />
+
+ <icon src="ldpi.png" density="ldpi" />
+ <icon src="mdpi.png" density="mdpi" />
+ <icon src="hdpi.png" density="hdpi" />
+ <icon src="xhdpi.png" density="xhdpi" />
+ <icon src="xxhdpi.png" density="xxhdpi" />
+ <icon src="xxxhdpi.png" density="xxxhdpi" />
         
     
       <!-- iPhone 6 / 6+ -->
